@@ -8,7 +8,7 @@ let media = (n1+n2+n3+n4)/4
 //mostrar a media 
 console.log(media)
 
-let numero = Math.sqrt(9)
+//baskara
 
 let a = 2
 let b = 8
